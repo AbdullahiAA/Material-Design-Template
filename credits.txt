@@ -1,0 +1,51 @@
+===================================================================
+    Plugins Used
+===================================================================
+
+    - Bootstrap 5          -      https://getbootstrap.com/
+
+    - Font Awesome 5       -      https://fontawesome.com/
+
+    - Orion Icons          -      https://orioniconlibrary.com/
+
+    - Multi.js               -    https://github.com/Fabianlindfors/multi.js
+
+    - Choices.js            -     https://github.com/Choices-js/Choices#readme
+
+    - Vanilla Datepicker    -     https://mymth.github.io/vanillajs-datepicker/#/
+
+    - Sparklines            -     https://github.com/fnando/sparkline
+
+    - Simple Datatables     -     https://github.com/fiduswriter/Simple-DataTables
+
+    - Autocomplete.js       -     https://tarekraafat.github.io/autoComplete.js/
+
+    - Ladda                 -     https://github.com/hakimel/Ladda
+
+    - Quill                 -     https://quilljs.com/
+
+    - Just Validate         -     https://github.com/horprogs/Just-validate#readme
+
+    - Masonry               -     https://masonry.desandro.com/
+
+    - gLightbox             -     https://biati-digital.github.io/glightbox/
+
+    - Chart.js              -     https://github.com/chartjs/Chart.js
+
+    - SpinKit               -     https://github.com/tobiasahlin/SpinKit
+
+    - Leaflet               -     https://leafletjs.com/
+
+    - Imask.js              -     https://imask.js.org/
+
+
+===================================================================
+    Mockups Used
+===================================================================
+
+    - https://dribbble.com/shots/2862026-Beauty-Cosmetics-Stationery-Wedding
+    - https://dribbble.com/shots/1155962-Free-Stationery-Mockup-PSD
+    - https://dribbble.com/shots/2569937-Brandminute-Scene-02
+    - https://dribbble.com/shots/1468064-Another-Branding-Mock-Up-Free-PSD
+    - https://dribbble.com/shots/3684230-Letterhead-Mockup
+    - https://dribbble.com/shots/2584869-Brandminute-Scene-07
